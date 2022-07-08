@@ -1,3 +1,3 @@
 # mongo-CRUD
-npm install
+npm install,
 nodemon
